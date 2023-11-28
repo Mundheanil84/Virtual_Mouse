@@ -1,4 +1,4 @@
-# Python Project VIRTUAL MOUSE
+# PYTHON PROJECT VIRTUAL MOUSE
 
 Functions
 • Make a rough plan how the system looks like
